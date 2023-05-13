@@ -50,12 +50,12 @@
 - **Search Countries**
 - **Select Countries**
 - **Check Country Details**
-
-
+## <a href="https://country-details-mu.vercel.app/">Live Demo</a>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- GETTING STARTED -->
-
+## 🚀 Live Demo <a name="live-demo"></a>
+> Link to deployed project.
+- [Live Demo Link](olio_Project/](https://country-details-mu.vercel.app/))
 ## 💻 Getting Started <a name="getting-started"></a>
 To get a local copy and run, follow these steps.
 ### Prerequisites
@@ -90,7 +90,7 @@ npm start
 __Kamran Ahmad__
 - GitHub: [@githubhandle](https://github.com/kamranahmad123) 
 - Twitter: [@twitterhandle](https://twitter.com/handel)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kamran-khan-9a293b113/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/KamranAhmad-momand/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -142,4 +142,4 @@ This project is [MIT](https://github.com/kamranahmad123/Country-Details/blob/mai
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-# leaderboard
+# Country Details
