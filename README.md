@@ -8,7 +8,7 @@
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
   - [🚀 Live Demo ](#-live-demo-)
-      - [Live Demo Link](#live-demo-link)
+  - [🚀 Recorded Video Link ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Setup](#setup)
     - [Deployment](#deployment)
@@ -52,6 +52,8 @@
 - **Check Country Details**
 ### Deployment Link
 [Live Demo](https://country-details-mu.vercel.app/)
+### Recorded Video Link
+[Watch](https://www.loom.com/share/f0b26e135e3345c4b91072d96012f05b)
 <!-- GETTING STARTED -->
 ## 💻 Getting Started <a name="getting-started"></a>
 To get a local copy and run, follow these steps.
