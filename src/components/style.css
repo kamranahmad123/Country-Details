@@ -1,0 +1,216 @@
+* {
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+}
+
+body {
+  background: #3295a7;
+  font-family: sans-serif;
+}
+
+header {
+  width: 100%;
+  height: 390px;
+}
+
+.map-image {
+  position: absolute;
+  width: 70%;
+  left: 20px;
+}
+
+.info-statusTxt {
+  margin-left: 10px;
+}
+
+span {
+  position: absolute;
+  left: 10px;
+  color: #000;
+}
+
+/* Home */
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  background-color: #215f81;
+  height: 40px;
+  padding-top: 7px;
+}
+.left-display {
+  display: flex;
+  justify-content: space-between;
+  width: 35%;
+}
+
+.topic {
+  color: white;
+  margin-left: 7%;
+}
+.right-display {
+  display: flex;
+  margin-right: 50px;
+  gap: 33%;
+}
+.home, .microphone, .setting {
+  width: 30px;
+  height: 30px;
+}
+
+.home {
+  padding-left: 20px;
+}
+
+.background-image {
+height: 310px;
+z-index:  -1;
+width: 100%;
+}
+
+.input-area {
+  text-align: center;
+  z-index: 10;
+  margin-top: -195px;
+}
+
+.search-bar {
+  padding: 0.8%;
+  width: 39%;
+  font-size: 16px;
+  border: none;
+}
+
+.topic-2 {
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background: #2f6a8a;
+  margin-top: -33px;  
+}
+
+.topic-text {
+  font-size: 20px;
+  padding-left: 10px; 
+  color: white;
+} 
+
+.countries {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  gap: 1px;
+  margin-top: 1px;
+}
+
+.country-list {
+  background: #1b506d;
+  width: 100%;
+  position: relative;
+  height: 210px;
+}
+
+.country-list:nth-child(odd) {
+  background: #275974;
+}
+
+.country-details {
+  position: absolute;
+  bottom: 25px;
+  right: 18px;
+}
+
+.name,
+.population {
+  color: #fff;
+}
+
+.name {
+  font-weight: 1500;
+}
+
+.population {
+  font-weight: 420;
+}
+
+/* DetailPage */
+
+.Backicon {
+  width: 30px;
+  height: 30px;
+  margin-left: 20px;
+}
+
+.details-container {
+  width: 100%;
+  margin: 100px 0;
+}
+
+.details-container h2:nth-child(even) {
+  background: #215f81;
+}
+
+.flag-picture {
+  text-align: center;
+  margin-top: -50px;
+  margin-bottom: 60px;
+  margin-left: -15px;
+}
+
+.flag-img {
+  width: 320px;
+  height: 160px;
+}
+
+.description {
+  width: 100%;
+  padding: 8px 0;
+  background: #2f6a8a;
+  margin-top: -39px;
+}
+
+.descriptive-topic, .countryData {
+  padding: 15px;
+  font-size: 16px;
+  font-weight: 500;
+  text-align: right;
+  color: #fff;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-weight: 400;
+}
+
+.countryData {
+  margin-top: -15px;
+  margin-left: -1%;
+}
+
+.descriptive-topic a {
+  color: #fff;
+  text-decoration: underline;
+}
+
+.topic-header {
+ color: white;
+ margin-left: 12px;
+ font-size: 16px;
+ font-weight: 500;
+}
+
+@media screen and (max-width: 768px) {
+  .name {
+  font-weight: 1500;
+  font-size:small;
+}
+
+.population {
+  font-weight: 420;
+  font-size:small;
+}
+
+.topic {
+  margin-left: 12%;
+}
+
+}
