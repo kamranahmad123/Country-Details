@@ -40,6 +40,7 @@ span {
   height: 40px;
   padding-top: 7px;
 }
+
 .left-display {
   display: flex;
   justify-content: space-between;
@@ -50,12 +51,16 @@ span {
   color: white;
   margin-left: 7%;
 }
+
 .right-display {
   display: flex;
   margin-right: 50px;
   gap: 33%;
 }
-.home, .microphone, .setting {
+
+.home,
+.microphone,
+.setting {
   width: 30px;
   height: 30px;
 }
@@ -65,9 +70,9 @@ span {
 }
 
 .background-image {
-height: 310px;
-z-index:  -1;
-width: 100%;
+  height: 310px;
+  z-index: -1;
+  width: 100%;
 }
 
 .input-area {
@@ -88,14 +93,14 @@ width: 100%;
   padding-top: 10px;
   padding-bottom: 10px;
   background: #2f6a8a;
-  margin-top: -33px;  
+  margin-top: -33px;
 }
 
 .topic-text {
   font-size: 20px;
-  padding-left: 10px; 
+  padding-left: 10px;
   color: white;
-} 
+}
 
 .countries {
   display: grid;
@@ -124,10 +129,6 @@ width: 100%;
 .name,
 .population {
   color: #fff;
-}
-
-.name {
-  font-weight: 1500;
 }
 
 .population {
@@ -170,15 +171,13 @@ width: 100%;
   margin-top: -39px;
 }
 
-.descriptive-topic, .countryData {
+.descriptive-topic,
+.countryData {
   padding: 15px;
-  font-size: 16px;
-  font-weight: 500;
   text-align: right;
   color: #fff;
   font-size: 15px;
   text-transform: uppercase;
-  font-weight: 400;
 }
 
 .countryData {
@@ -192,25 +191,23 @@ width: 100%;
 }
 
 .topic-header {
- color: white;
- margin-left: 12px;
- font-size: 16px;
- font-weight: 500;
+  color: white;
+  margin-left: 12px;
+  font-size: 16px;
+  font-weight: 500;
 }
 
 @media screen and (max-width: 768px) {
   .name {
-  font-weight: 1500;
-  font-size:small;
-}
+    font-size: small;
+  }
 
-.population {
-  font-weight: 420;
-  font-size:small;
-}
+  .population {
+    font-weight: 420;
+    font-size: small;
+  }
 
-.topic {
-  margin-left: 12%;
-}
-
+  .topic {
+    margin-left: 12%;
+  }
 }
