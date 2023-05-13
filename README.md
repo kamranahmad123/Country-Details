@@ -122,7 +122,8 @@ If you like this project give me a star.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
- We would like to thank all our fellow micronauts.
+ I would like to thank Nelson Sakwa the designer and Author of this Readme template and all other micronauts
+ esplecially Mr.Sayed Atril who helped me with this project.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>

@@ -210,4 +210,11 @@ span {
   .topic {
     margin-left: 12%;
   }
+
+  .countries {
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 1px;
+    margin-top: 1px;
+  }
 }
