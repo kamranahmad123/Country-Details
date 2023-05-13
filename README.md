@@ -50,12 +50,9 @@
 - **Search Countries**
 - **Select Countries**
 - **Check Country Details**
-## <a href="https://country-details-mu.vercel.app/">Live Demo</a>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+### Deployment Link
+[Live Demo](https://country-details-mu.vercel.app/)
 <!-- GETTING STARTED -->
-## 🚀 Live Demo <a name="live-demo"></a>
-> Link to deployed project.
-- [Live Demo Link](olio_Project/](https://country-details-mu.vercel.app/))
 ## 💻 Getting Started <a name="getting-started"></a>
 To get a local copy and run, follow these steps.
 ### Prerequisites
